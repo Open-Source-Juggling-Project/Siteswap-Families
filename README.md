@@ -16,7 +16,7 @@ This project will then go deeper into those original ideas.
 
 This project will also explore new ideas in Siteswap Families.
 
-* This reference made me think it was sometime around 2005: http://www.sporttaco.com/rec.juggling/4ball_siteswaps_3405.html
+*This reference made me think it was sometime around 2005: http://www.sporttaco.com/rec.juggling/4ball_siteswaps_3405.html
 
 > 20 Oct 2005 05:30:34
 >

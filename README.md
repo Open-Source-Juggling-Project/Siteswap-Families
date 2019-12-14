@@ -1,4 +1,4 @@
-# Siteswap-Families
+# Siteswap Families
 
 Reviewing previous work on Siteswap Families, going into more depth with those original ideas, and exploring new ideas.
 

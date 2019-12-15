@@ -154,80 +154,85 @@ These patterns have all their entry and exit throws. The first pattern for each 
 
 ### Family of patterns that build up to b444b333444 – all are ground state
 
-4 objects
+| 4 objects | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 5353 | | | | | |					
+| 63623 | 633633 | | | | |				
+| 737223 | 7337233 | 73337333 | | | |			
+| 8382223 | 83382233 | 833382333 | 8333383333 | | |		
+| 93922223 | 933922233 | 9333922333 | 93333923333 | 933333933333 | |	
+| a3a222223 | a33a222233 | a333a222333 | a3333a223333 | a33333a233333 | a333333a333333 |
 
-5353					
-63623	633633				
-737223	7337233	73337333			
-8382223	83382233	833382333	8333383333		
-93922223	933922233	9333922333	93333923333	933333933333	
-a3a222223	a33a222233	a333a222333	a3333a223333	a33333a233333	a333333a333333
-
-5 objects
-
-6464					
-74734	744744				
-848334	8448344	84448444			
-9493334	94493344	944493444	9444494444		
-a4a33334	a44a33344	a444a33444	a4444a34444	a44444a44444	
-b4b333334	b44b333344	b444b333444	b4444b334444	b44444b344444	b444444b444444
+| 5 objects | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 6464 | | | | | |					
+| 74734 | 744744 | | | | |				
+| 848334 | 8448344 | 84448444 | | | |			
+| 9493334 | 94493344 | 944493444 | 9444494444 | | |		
+| a4a33334 | a44a33344 | a444a33444 | a4444a34444 | a44444a44444 | |	
+| b4b333334 | b44b333344 | **b444b333444** | b4444b334444 | b44444b344444 | b444444b444444 |
 
 
 ### Pirouettes
 
 With pirouettes you generally need a 22, 20 or 00 to do a pirouettes (or more of these in a row)
 
-Basic pirouettes
+#### Basic Pirouettes
 
 These patterns can be used in combination with the ground state tables or other ground state patterns.
 
-	2 objects	3 objects	4 objects	5 objects	6 objects	7 objects
-1 up	420	522				
-2 up	4400	5520	6622			
-3 up		55500	66620	77722		
-4 up			666600	777720	888822	
-5 up				7777700	8888820	9999922
-6 up					88888800	99999920
-7 up						999999900
+| | 2 objects | 3 objects | 4 objects | 5 objects | 6 objects | 7 objects |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 up | 420  | 522   |        |         |          |           |				
+| 2 up | 4400 | 5520  | 6622   |         |          |           |			
+| 3 up |      | 55500 | 66620  | 77722   |          |           |		
+| 4 up |      |       | 666600 | 777720  | 888822   |           |	
+| 5 up |      |       |        | 7777700 | 8888820  | 9999922   |
+| 6 up |      |       |        |         | 88888800 | 99999920  |
+| 7 up |      |       |        |         |          | 999999900 |
 
 
-7792244 variations
+#### 7792244 variations
 
-3 objects	4 objects	5 objects	6 objects	7 objects
-72222	682233	7792244	888a2255	9999b2266
-
-
-777790044 variations
-
-3 objects	4 objects	5 objects	6 objects	7 objects
-5570022	66680033	777790044	88888a0055	999999b0066
+| 3 objects |	4 objects |	5 objects |	6 objects |	7 objects |
+|:---:|:---:|:---:|:---:|:---:|
+| 72222 | 682233 | 7792244 | 888a2255 | 9999b2266 |
 
 
-779227722 variations with more/less objects
+#### 777790044 variations
 
-3 objects	4 objects	5 objects	6 objects	7 objects
-72222	6822622	779227722	888a2288822	9999b22999922
-7225500	68226620	779227722	888a228842	9999b229944
-5570022	66820622	779227722	88a4288822	99b44999922
-557005500	668206620	779227722	88a428842	99b449944
+| 3 objects |	4 objects |	5 objects |	6 objects |	7 objects |
+|:---:|:---:|:---:|:---:|:---:|
+| 5570022 | 66680033 | 777790044 | 88888a0055 | 999999b0066 |
 
-Line 1 – varying number of initial throws and midway throws
-Line 2 – varying number of initial throws, but keeping midway throws constant at 2 – after 5 balls, pirouette in first section, not in second
-Line 3 – keeping initial throws constant, but varying the number of midway throws – after 5 balls, no pirouettes first section, but a pirouette in second section
-Line 4 - keeping number of throws at start constant (3) and number of throws in middle constant (2)
-Some of them loose there pirouette ability – but it is a nice exercise is looking at variations of a pattern – some of them created nice pirouettes with more objects, some with less
+
+#### 779227722 variations with more/less objects
+
+| 3 objects |	4 objects |	5 objects |	6 objects |	7 objects |
+|:---:|:---:|:---:|:---:|:---:|
+| 72222 | 6822622 | 779227722 | 888a2288822 | 9999b22999922 |
+| 7225500 | 68226620 | 779227722 | 888a228842 | 9999b229944 |
+| 5570022 | 66820622 | 779227722 | 88a4288822 | 99b44999922 |
+| 557005500 | 668206620 | 779227722 | 88a428842 | 99b449944 |
+
+Notes: 
+- Line 1 – varying number of initial throws and midway throws
+- Line 2 – varying number of initial throws, but keeping midway throws constant at 2 – after 5 balls, pirouette in first section, not in second
+- Line 3 – keeping initial throws constant, but varying the number of midway throws – after 5 balls, no pirouettes first section, but a pirouette in second section
+- Line 4 - keeping number of throws at start constant (3) and number of throws in middle constant (2)
+- Some of them loose there pirouette ability – but it is a nice exercise is looking at variations of a pattern – some of them created nice pirouettes with more objects, some with less
+- Can be done as half pirouette/half pirouette, half pirouette/full pirouette, full pirouette/half pirouette, and full pirouette/full pirouette
+
+#### Two stage pirouettes
+
+| 3 objects | 4 objects | 5 objects | 6 objects | 7 objects |
+|:---:|:---:|:---:|:---:|:---:|
+| 5570022 | 66880022 | 779990022 | 88aaaa0022 | 99bbbbb0022 |
+
 Can be done as half pirouette/half pirouette, half pirouette/full pirouette, full pirouette/half pirouette, and full pirouette/full pirouette
 
 
-### Two stage pirouettes
-
-3 objects	4 objects	5 objects	6 objects	7 objects
-5570022	66880022	779990022	88aaaa0022	99bbbbb0022
-
-Can be done as half pirouette/half pirouette, half pirouette/full pirouette, full pirouette/half pirouette, and full pirouette/full pirouette
-
-
-#### Couple of other notable patterns for 5 balls - d66226622 and 7777b006622
+#### Couple of other notable patterns for 5 balls: d66226622 and 7777b006622
 
 ## Synchronous and Synchronous Multiplex
 

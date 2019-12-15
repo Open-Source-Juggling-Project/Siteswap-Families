@@ -8,6 +8,12 @@ In 2005, possibly earlier*, I wrote an article titled "Siteswap Families".
 
 This project will present that original piece, with minor edits, in a modern web format.
 
+- [ x ] Copy original document into original.md
+- [ x ] Update all content into Markdown styling 
+- [ ] Review content for misspelling, punctuation, grammar, and layout issues
+- [ ] Link document to main page of this project
+- [ ] Consider breaking up document into smaller documents, using Jekyll 'includes'
+
 ## Going Deeper on Original Ideas
 
 This project will then go deeper into those original ideas.

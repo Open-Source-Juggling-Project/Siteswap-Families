@@ -1,3 +1,13 @@
+```
+The content of this document was written in 2005, or earlier, by Mark Adam Douglass.
+
+It has been reproduced here, with minor changes. 
+
+Changes include: 
+- speeling, punctuation, and grammar
+- layout changes.
+```
+
 # Siteswap Families
 
 I have seen many lists of siteswaps, personal and on the web, with many of them just random lists of numbers and only sorted to amount of balls, and others a more organized according to highest value in siteswap and length of siteswap. 

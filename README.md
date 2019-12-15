@@ -12,11 +12,18 @@ This project will present that original piece, with minor edits, in a modern web
 
 This project will then go deeper into those original ideas.
 
+- [ ] Create a list of all sections of the original document, reviewing all aspects in more depth
+
 ## Exploring New Ideas
 
 This project will also explore new ideas in Siteswap Families.
 
-*This reference made me think it was sometime around 2005: http://www.sporttaco.com/rec.juggling/4ball_siteswaps_3405.html
+- [ ] Create a list of new ideas from notebooks, in order to work on further
+- [ ] Request a review from other jugglers, asking for other siteswap families they know of
+
+\* This reference made me think it was sometime around 2005: 
+
+http://www.sporttaco.com/rec.juggling/4ball_siteswaps_3405.html
 
 > 20 Oct 2005 05:30:34
 >

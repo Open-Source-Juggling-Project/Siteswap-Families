@@ -231,149 +231,156 @@ Notes:
 
 Can be done as half pirouette/half pirouette, half pirouette/full pirouette, full pirouette/half pirouette, and full pirouette/full pirouette
 
-
-#### Couple of other notable patterns for 5 balls: d66226622 and 7777b006622
+#### Couple of other notable patterns for 5 objects: d66226622 and 7777b006622
 
 ## Synchronous and Synchronous Multiplex
 
 ### Maximum Height 4
 
-3 object – 4/2
+| 3 objects – 4/2 | | | | 
+|:---:|:---:|:---:|:---:|
+| (4,2) | (4x,2x) | (4,2x)* | (4x,2)* |
+| (4,2)(2x,4x) | (4,2)(4x,2)* | (4x,2)(4x,2x)* |
+| (4x,2)(4,2x) | (4,2x)(4,2)* | (4x,2x)(4,2x)* |
+| (4,2x)(4,2)(4x,2) | (4,2)(4x,2)(4x,2x)* |
+| (4x,2)(4x,2x)(4,2x) | (4x,2x)(4,2x)(4,2)* |
+| (4,2)(4,2x)(4x,2x)(4,2x) |
 
-(4,2)	(4x,2x)	(4,2x)*	(4x,2)*
-(4,2)(2x,4x)	(4,2)(4x,2)*	(4x,2)(4x,2x)*
-(4x,2)(4,2x)	(4,2x)(4,2)*	(4x,2x)(4,2x)*
-(4,2x)(4,2)(4x,2)	(4,2)(4x,2)(4x,2x)*
-(4x,2)(4x,2x)(4,2x)	(4x,2x)(4,2x)(4,2)*
-(4,2)(4,2x)(4x,2x)(4,2x)
-
-3 objects – 4/2/0
-
-([4x4]0)(4x0)(24x)(24x)	([4x4]2x)(4x0)(22x)
-([4x4]0)(4x0)(4x2)*	([4x4]2x)(40)(2x2)*
-
-
-4 objects
-
-(4,4) and (4x,4x)
+| 3 objects – 4/2/0 | |
+|:---:|:---:|
+| ([4x,4],0)(4x,0)(2,4x)(2,4x) | ([4x,4],2x)(4x,0)(2,2x) |
+| ([4x,4],0)(4x,0)(4x,2)* | ([4x,4],2x)(4,0)(2x,2)* |
 
 
-4 objects – 4/2
+| 4 objects | |
+|:---:|:---:|
+| (4,4) | (4x,4x) |
 
-([4x4]2)(24x)	([4x4]2)(42x)	([4x4]2x)(24)	([4x4]2x)(4x2x)
-([4x4]2)(4x2)*	([4x4]2)(2x4)*	([4x4]2x)(42)*	([4x4]2x)(2x4x)*
+
+| 4 objects – 4/2 | | | |
+|:---:|:---:|:---:|:---:|
+| ([4x,4],2)(2,4x) | ([4x,4],2)(4,2x) | ([4x,4],2x)(2,4) | ([4x,4],2x)(4x,2x) |
+| ([4x,4],2)(4x,2)* | ([4x,4],2)(2x,4)* | ([4x,4],2x)(4,2)* | ([4x,4],2x)(2x,4x)* |
 
 
-5 balls - 4/2
-
-([4x,4],2)*
+| 5 objects - 4/2 | 
+|:---:|
+| ([4x,4],2)* |
 
 
 ### Maximum Height 6
 
-6/4 Family
+#### 6/4 Family
 
-Just thought that I would mention the fact that I could do the 4 ball patterns before the three ball patterns, most probably because the zeros are hard to deal with. Also, with 4 balls, you get a definite response as to whether the heights are correct because you need to come back to synch first, whereas with 3 balls it is a lot easier to fudge it back to synch.
+Note: 
+- I thought that I would mention the fact that I could do the 4 ball patterns before the three ball patterns, most probably because the zeros are hard to deal with. 
+- Also, with 4 balls, you get a definite response as to whether the heights are correct because you need to come back to synch first, whereas with 3 balls it is a lot easier to fudge it back to synch.
 
-
-3 objects - 6/4/2/0
-
-(46x)(60)(2x0)
-(64x)(60)(2x0)
-
-
-3 objects – 6/4/2/0
-
-(6,4)(2,0)	(6,4)(0,2x)*	(6,4)(2,0)(4x,2)*
-(6x,4x)(0,2)	(6x,4x)(2x,0)*	(6x,4x)(0,2)(2,4x)*
-(6,4x)(2x,0)	(6,4x)(0,2)*	(6,4x)(0,2)(4,2)*
-(6x,4)(0,2x)	(6x,4)(2,0)*	(6x,4)(2,0)(2,4)*
+| 3 objects - 6/4/2/0 |
+|:---:|
+| (4,6x)(6,0)(2x,0) |
+| (6,4x)(6,0)(2x,0) |
 
 
-4 objects – 6/4/2
-
-These patterns can be combined in any manner as every pattern comes back to ground state. This includes star and non star patterns
-
-(6,4)(2,4)	(6,4)(4x,2x)
-(6x,4x)(4,2)	(6x,4x)(2x,4x)
-(6,4x)(4x,2)	(6,4x)(2x,4)
-(6x,4)(2,4x)	(6x,4)(4,2x)
-
-(6,4)(2,4)*	(6,4)(4x,2x)*
-(6x,4x)(4,2)*	(6x,4x)(2x,4x)*
-(6,4x)(4x,2)*	(6,4x)(2x,4)*
-(6x,4)(2,4x)*	(6x,4)(4,2x)*
+| 3 objects – 6/4/2/0 | | |
+|:---:|:---:|:---:|
+| (6,4)(2,0) | (6,4)(0,2x)* | (6,4)(2,0)(4x,2)* |
+| (6x,4x)(0,2) | (6x,4x)(2x,0)* | (6x,4x)(0,2)(2,4x)* |
+| (6,4x)(2x,0) | (6,4x)(0,2)* | (6,4x)(0,2)(4,2)* |
+| (6x,4)(0,2x) | (6x,4)(2,0)* | (6x,4)(2,0)(2,4)* |
 
 
-5 objects – 6/4
+| 4 objects – 6/4/2 | |
+|:---:|:---:|
+| (6,4)(2,4) | (6,4)(4x,2x) |
+| (6x,4x)(4,2) | (6x,4x)(2x,4x) |
+| (6,4x)(4x,2) | (6,4x)(2x,4) |
+| (6x,4)(2,4x) | (6x,4)(4,2x) |
+| | |
+| (6,4)(2,4)* | (6,4)(4x,2x)* |
+| (6x,4x)(4,2)* | (6x,4x)(2x,4x)* |
+| (6,4x)(4x,2)* | (6,4x)(2x,4)* |
+| (6x,4)(2,4x)* | (6x,4)(4,2x)* |
 
-(6,4)	(6x,4x)	(6,4x)*	(6x,4)*
-(6,4)(4x,6x)	(6,4)(6x,4)*	(6x,4)(6x,4x)*
-(6x,4)(6,4x)	(6,4x)(6,4)*	(6x,4x)(6,4x)*
-(6,4x)(6,4)(6x,4)	(6,4)(6x,4)(6x,4x)*
-(6x,4)(6x,4x)(6,4x)	(6x,4x)(6,4x)(6,4)*
-(6,4)(6x,4)(6x,4x)(6,4x)
+Note: 
+- The patterns above can be combined in any manner as every pattern comes back to ground state. This includes star and non star patterns
 
-
-### 6/2 Family
-
-4 objects – 6/2
-
-All these patterns are non ground state. I will leave the entry and exit throws to the reader (because I am too lazy for the moment). The patterns in bold do not really fit into the pattern of this family, but are very nice variations, so I have included them here. (6,2)* was a new patterns for me when I was working on this family. Also, (6x,2x)* is one of my favorite patterns
-
-(6,2)	(6x,2x)	(6,2)*	(6x,2x)*
-(6,2)(6x,2x)	(6,2x)(6x,2)*	(6x,2)(6x,2)*
-(6,2)(2x,6x)	(6x,2)(6,2x)*	(6,2x)(6,2x)*
-(6,2)(6,2x)(6x,2)	(6x2)(6x2)(6x2x)*
-(6,2x)(6x,2x)(6x,2)	(62x)(62x)(62)*
-(62)(6x2)(2x6x)(62x)
-(62)(26x)(2x6x)(2x6)
-
-
-(66)(22)	(66)(2x2x)	(6x6x)(22)	(6x6x)(2x2x)
+| 5 objects – 6/4 | | | |
+|:---:|:---:|:---:|:---:|
+| (6,4) | (6x,4x) | (6,4x)* | (6x,4)* |
+| (6,4)(4x,6x) | (6,4)(6x,4)* | (6x,4)(6x,4x)* |
+| (6x,4)(6,4x) | (6,4x)(6,4)* | (6x,4x)(6,4x)* |
+| (6,4x)(6,4)(6x,4) | (6,4)(6x,4)(6x,4x)* |
+| (6x,4)(6x,4x)(6,4x) | (6x,4x)(6,4x)(6,4)* |
+| (6,4)(6x,4)(6x,4x)(6,4x) |
 
 
-5 objects - 6/2
+#### 6/2 Family
 
-At any time you can replace (6,6) with (6x,6x) in the table below.
+| 4 objects – 6/2 | | | |
+|:---:|:---:|:---:|:---:|
+| (6,2) | (6x,2x) | (6,2)* | (6x,2x)* |
+| (6,2)(6x,2x) | (6,2x)(6x,2)* | (6x,2)(6x,2)* |
+| (6,2)(2x,6x) | (6x,2)(6,2x)* | (6,2x)(6,2x)* |
+| (6,2)(6,2x)(6x,2) | (6x,2)(6x,2)(6x,2x)* |
+| (6,2x)(6x,2x)(6x,2) | (6,2x)(6,2x)(6,2)* |
+| (6,2)(6x,2)(2x,6x)(6,2x) |
+| (6,2)(2,6x)(2x,6x)(2x,6) |
+| | | | | 
+| (6,6)(2,2) | (6,6)(2x,2x) | (6x,6x)(2,2) | (6x,6x)(2x,2x) |
 
-(6,6)(6,2)	(6,6)(6x,2x)	(6,6)(6,2x)*	(6,6)(6x,2)*
-(6,6)(6,2)(6,6)(2x,6x)	(6,6)(6,2)(6,6)(6x,2)*	(6,6)(6x,2)(6,6)(6x,2x)*
-(6,6)(6x,2)(6,6)(6,2x)	(6,6)(6x,2x)(6,6)(6,2x)*	(6,6)(6,2x)(6,6)(6,2)*
-(6,6)(6,2x)(6,6)(6,2)(6,6)(6x,2)	(6,6)(6,2)(6,6)(6x,2)(6,6)(6x,2x)*
-(6,6)(6x,2)(6,6)(6x,2x)(6,6)(6,2x)	(6,6)(6x,2x)(6,6)(6,2x)(6,6)(6,2)*
-(6,6)(6,2)(6,6)(6x,2)(6,6)(6x,2x)(6,6)(6,2x)
+Note: 
+- All the patterns above are non ground state. I will leave the entry and exit throws to the reader. 
+- The patterns in the last row do not really fit into the pattern of this family, but are very nice variations, so I have included them here. 
+- (6,2)* was a new pattern for me when I was working on this family. 
+- Also, (6x,2x)* is one of my favorite patterns
+
+| 5 objects - 6/2 | | | |
+|:---:|:---:|:---:|:---:|
+| (6,6)(6,2) | (6,6)(6x,2x) | (6,6)(6,2x)* | (6,6)(6x,2)* |
+| (6,6)(6,2)(6,6)(2x,6x) | (6,6)(6,2)(6,6)(6x,2)* | (6,6)(6x,2)(6,6)(6x,2x)* |
+| (6,6)(6x,2)(6,6)(6,2x) | (6,6)(6x,2x)(6,6)(6,2x)* | (6,6)(6,2x)(6,6)(6,2)* |
+| (6,6)(6,2x)(6,6)(6,2)(6,6)(6x,2) | (6,6)(6,2)(6,6)(6x,2)(6,6)(6x,2x)* |
+| (6,6)(6x,2)(6,6)(6x,2x)(6,6)(6,2x) | (6,6)(6x,2x)(6,6)(6,2x)(6,6)(6,2)* |
+| (6,6)(6,2)(6,6)(6x,2)(6,6)(6x,2x)(6,6)(6,2x) |
+
+Note:
+- At any time you can replace (6,6) with (6x,6x) in the table above.
+
+#### 5 Objects - 6/4/2
+
+Combining these patterns: 
+
+| (6,6)(6,2) | (6,6)(6x,2x) | (6,6)(6,2x)* | (6,6)(6x,2)* |
+|:---:|:---:|:---:|:---:|
+
+With these patterns: 
+
+| (6,4) | (6x,4x) | (6,4x)* | (6x,4)* |
+|:---:|:---:|:---:|:---:|
+
+We get: 
+
+| | (6,4) | (6x,4x) | (6,4x) | (6x,4) |
+|:---:|:---:|:---:|:---:|:---:|
+| **(6,6)(6,2)** | (6,6)(6,2)(6,4) | (6,6)(6,2)(4x,6x) | (6,4x)(6,6)(6,2)* | (6,6)(6,2)(6x,4)* |
+| **(6,6)(6x,2x)** | (6,6)(6x,2x)(4,6) | (6,6)(6x,2x)(6x,4x) | (6,6)(6x,2x)(6,4x)* | (6x,4)(6,6)(6x,2x)* |
+| **(6,6)(6,2x)** | (6,6)(6,2x)(6,4)* | (6x,4x)(6,6)(6,2x)* | (6,6)(6,2x)(4x,6) | (6,6)(6,2x)(6x,4) |
+| **(6,6)(6x,2)** | (6,4)(6,6)(6x,2)* | (6,6)(6x,2)(6x,4x)* | (6,6)(6x,2)(6,4x) | (6,6)(6x,2)(4,6x) |
 
 
-5 Objects - 6/4/2
-
-Combining these patterns together 
-
-(6,6)(6,2)	(6,6)(6x,2x)	(6,6)(6,2x)*	(6,6)(6x,2)*
-
-(6,4)	(6x,4x)	(6,4x)*	(6x,4)*
-
-We get
-
-	(6,4)	(6x,4x)	(6,4x)	(6x,4)
-(6,6)(6,2)	(6,6)(6,2)(6,4)	(6,6)(6,2)(4x,6x)	(6,4x)(6,6)(6,2)*	(6,6)(6,2)(6x,4)*
-(6,6)(6x,2x)	(6,6)(6x,2x)(4,6)	(6,6)(6x,2x)(6x,4x)	(6,6)(6x,2x)(6,4x)*	(6x,4)(6,6)(6x,2x)*
-(6,6)(6,2x)	(6,6)(6,2x)(6,4)*	(6x,4x)(6,6)(6,2x)*	(6,6)(6,2x)(4x,6)	(6,6)(6,2x)(6x,4)
-(6,6)(6x,2)	(6,4)(6,6)(6x,2)*	(6,6)(6x,2)(6x,4x)*	(6,6)(6x,2)(6,4x)	(6,6)(6x,2)(4,6x)
-
-
-5 objects - 6/4/2
-
-([6x,6],4)(2,2)*	([6x,6],4)(2,2x)	([6x,6],4x)(2,2)	([6x,6],4x)(2x,2)*
-([4x,4],6)(4,2)*	([4x,4],6)(2,4x)	([4x,4],6x)(2,4)	([4x,4],6x)(4x,2)*
-([6,4],2)(2,6)	([6,4],4)(2,4)	([6,4],6)(2,2)
-([6,4],2x)(6,2)*	([6,4],4)(4x,2)*	([6,4],6)(2x,2)*
-([6x,4x],2)(6x,2)*	([6x,4x],4x)(4,2)*	([6x,4x],6x)(2,2)*
-([6x,4x],2x)(2,6x)	([6x,4x],4x)(2,4x)	([6x,4x],6x)(2,2x)
-([6,4x],2)(2,6x)	([6,4x],4x)(2,4)	([6,4x],6)(2,2)*
-([6,4x],2x)(6x,2)*	([6,4x],4x)(4x,2)*	([6,4x],6)(2,2x)
-([6x,4],2)(6,2)*	([6x,4],4)(4,2)*	([6x,4],6x)(2,2)
-([6x,4],2x)(2,6)	([6x,4],4)(2,4x)	([6x,4],6x)(2x,2)*
+| 5 objects - 6/4/2 | (Multiplex Variations) | | |
+|:---:|:---:|:---:|:---:|
+| ([6x,6],4)(2,2)* | ([6x,6],4)(2,2x) | ([6x,6],4x)(2,2) | ([6x,6],4x)(2x,2)* |
+| ([4x,4],6)(4,2)* | ([4x,4],6)(2,4x) | ([4x,4],6x)(2,4) | ([4x,4],6x)(4x,2)* |
+| ([6,4],2)(2,6) | ([6,4],4)(2,4) | ([6,4],6)(2,2) |
+| ([6,4],2x)(6,2)* | ([6,4],4)(4x,2)* | ([6,4],6)(2x,2)* |
+| ([6x,4x],2)(6x,2)* | ([6x,4x],4x)(4,2)* | ([6x,4x],6x)(2,2)* |
+| ([6x,4x],2x)(2,6x) | ([6x,4x],4x)(2,4x) | ([6x,4x],6x)(2,2x) |
+| ([6,4x],2)(2,6x) | ([6,4x],4x)(2,4) | ([6,4x],6)(2,2)* |
+| ([6,4x],2x)(6x,2)* | ([6,4x],4x)(4x,2)* | ([6,4x],6)(2,2x) |
+| ([6x,4],2)(6,2)* | ([6x,4],4)(4,2)* | ([6x,4],6x)(2,2) |
+| ([6x,4],2x)(2,6) | ([6x,4],4)(2,4x) | ([6x,4],6x)(2x,2)* |
 
 
 ### Maximum Height 8 

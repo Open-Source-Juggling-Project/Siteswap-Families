@@ -27,17 +27,20 @@ footer {
   margin: 20px;
 }
 
-footer a:link, footer a:visited {
+footer a:link,
+footer a:visited {
   background-color: black;
   color: white;
   border: 5px solid white;
-  padding: 10px 20px; 
+  padding: 10px 10px;
+  margin: 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
 }
 
-footer a:hover, footer a:active {
+footer a:hover,
+footer a:active {
   background-color: white;
   color: black;
 }

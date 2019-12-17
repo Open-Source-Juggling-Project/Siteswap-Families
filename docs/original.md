@@ -14,7 +14,10 @@ Changes include:
 
 Otherwise, most of the content reflects the original piece.
 
-Whilst many of the ideas are correct, some errors in thinking and judgment may occur, and one of the reasons for revisiting this piece. Another main reason is to look at these ideas in more depth.
+Whilst many of the ideas are correct, 
+some errors in thinking and judgment may occur, 
+and one of the reasons for revisiting this piece. 
+Another main reason is to look at these ideas in more depth.
 ```
 
 # Siteswap Families

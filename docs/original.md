@@ -1,3 +1,8 @@
+---
+layout: default
+title: Original Siteswap Families Article
+---
+
 ```
 The content of this document was written in 2005, or earlier, by Mark Adam Douglass.
 

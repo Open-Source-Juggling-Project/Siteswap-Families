@@ -10,7 +10,7 @@ This project will present that original piece, with minor edits, in a modern web
 
 - [x] Copy original document into original.md
 - [x] Update all content into Markdown styling 
-- [ ] Review content for misspelling, punctuation, grammar, and layout issues
+- [x] Review content for misspelling, punctuation, grammar, and layout issues
 - [ ] Link document to main page of this project
 - [ ] Consider breaking up document into smaller documents, using Jekyll 'includes'
 

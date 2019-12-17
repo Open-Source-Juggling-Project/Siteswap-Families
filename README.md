@@ -11,7 +11,9 @@ This project will present that original piece, with minor edits, in a modern web
 - [x] Copy original document into original.md
 - [x] Update all content into Markdown styling 
 - [x] Review content for misspelling, punctuation, grammar, and layout issues
-- [ ] Link document to main page of this project
+- [x] Link document to main page of this project
+- [ ] Review styling of website, as 'text-align: center' is not great forall text
+- [ ] Consider inserting lines into tables
 - [ ] Consider breaking up document into smaller documents, using Jekyll 'includes'
 
 ## Going Deeper on Original Ideas

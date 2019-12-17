@@ -20,6 +20,24 @@ p {
   font-size: 20px;
 }
 
+section a:link,
+section a:visited {
+  background-color: white;
+  color: black;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+section a:hover,
+section a:active {
+  background-color: black;
+  color: white;
+}
+
 footer {
   background-color: black;
   color: white;

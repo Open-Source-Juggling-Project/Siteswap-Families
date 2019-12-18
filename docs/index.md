@@ -5,4 +5,4 @@ title: Siteswap Families
 
 # Siteswap Families
 
-<p class="button"><a href="original.md">Original Document</a></p>
+<p class="button"><a href="original.html">Original Document</a></p>

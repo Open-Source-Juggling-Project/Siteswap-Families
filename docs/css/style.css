@@ -53,14 +53,18 @@ section {
   margin: 20px;
 }
 
+.button {
+  text-align: center;
+}
+
 section a:link,
 section a:visited {
   background-color: white;
   color: black;
+  text-align: center;
   border: 5px solid black;
   padding: 10px;
   margin: 10px;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
 }
@@ -86,10 +90,10 @@ footer a:link,
 footer a:visited {
   background-color: black;
   color: white;
+  text-align: center;
   border: 5px solid white;
   padding: 10px;
   margin: 10px;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
 }
@@ -98,5 +102,4 @@ footer a:hover,
 footer a:active {
   background-color: white;
   color: black;
-  text-align: center;
 }

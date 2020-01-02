@@ -3,22 +3,15 @@ layout: default
 title: Original Siteswap Families Article
 ---
 
-```
-The content of this document was written in 2005, or earlier, by Mark Adam Douglass.
+<footer>
 
-It has been reproduced here, with minor changes. 
+<p>The content of this document was written in 2005, or earlier, by Mark Adam Douglass.</p>
 
-Changes include: 
-- speeling, punctuation, and grammar
-- layout changes.
+<p>It has been reproduced here, with minor changes. Changes include: spelling, punctuation, and grammar, as well as some changes in layout. Otherwise, most of the content reflects the original piece.</p>
 
-Otherwise, most of the content reflects the original piece.
+<p>Whilst many of the ideas are correct, some errors in thinking and judgment may occur, and one of the reasons for revisiting this piece. Another main reason is to look at these ideas in more depth.</p>
 
-Whilst many of the ideas are correct, 
-some errors in thinking and judgment may occur, 
-and one of the reasons for revisiting this piece. 
-Another main reason is to look at these ideas in more depth.
-```
+</footer>
 
 # Siteswap Families
 
@@ -387,12 +380,10 @@ Note:
 Combining these patterns: 
 
 | (6,6)(6,2) | (6,6)(6x,2x) | (6,6)(6,2x)* | (6,6)(6x,2)* |
-|:---:|:---:|:---:|:---:|
 
 With these patterns: 
 
 | (6,4) | (6x,4x) | (6,4x)* | (6x,4)* |
-|:---:|:---:|:---:|:---:|
 
 We get: 
 
@@ -446,12 +437,10 @@ Note:
 Combining this family:
 
 | (6,4) | (6x,4x) | (6,4x)* | (6x,4)* | 
-|:---:|:---:|:---:|:---:|
 
 With this family: 
 
 | (8,2) | (8x,2x) | (8,2x)* | (8x,2)* | 
-|:---:|:---:|:---:|:---:|
 
 We get:
 

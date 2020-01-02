@@ -48,6 +48,33 @@ li {
   text-align: left;
 }
 
+/* Table Styling */
+
+table {
+  border-collapse: collapse;
+  margin: 20px 0px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 0px 5px;
+  text-align: center;
+}
+
+th {
+  background-color: black;
+  color: white;  
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* End Table Styling */
+
 section {
   padding: 10px;
   margin: 20px;

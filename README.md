@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Open-Source-Juggling-Project/Siteswap-Families) 
+
 # Siteswap Families
 
 Reviewing previous work on Siteswap Families, going into more depth with those original ideas, and exploring new ideas.
